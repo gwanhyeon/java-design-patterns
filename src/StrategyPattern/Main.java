@@ -1,5 +1,4 @@
 package StrategyPattern;
-
 import StrategyPattern.Delegate.AObj;
 import StrategyPattern.Interface.AInterface;
 import StrategyPattern.Interface.AInterfaceImpl;

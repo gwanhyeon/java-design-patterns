@@ -1,7 +1,4 @@
 package StrategyPattern;
-
-import StrategyPattern.Weapon;
-
 public class GameCharacter {
     // 접근
     private Weapon weapon;
